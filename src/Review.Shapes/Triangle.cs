@@ -3,9 +3,9 @@
 public record struct Triangle : IShape
 {
     public static readonly double Epsilon = 0.0001;
-    public double A { get; init; }
-    public double B { get; init; }
-    public double C { get; init; }
+    public double A { get; }
+    public double B { get; }
+    public double C { get; }
     public double Perimeter { get; }
     public bool IsRectangular { get; }
 

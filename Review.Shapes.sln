@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review.Shapes", "src\Review.Shapes\Review.Shapes.csproj", "{155E19CC-7C8D-4C36-A84D-DEFEE6E0765F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review.Shapes.Tests", "src\Review.Shapes.Tests\Review.Shapes.Tests.csproj", "{2C3FEAAA-DBEA-4317-92AB-F9116F532B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155E19CC-7C8D-4C36-A84D-DEFEE6E0765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E19CC-7C8D-4C36-A84D-DEFEE6E0765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E19CC-7C8D-4C36-A84D-DEFEE6E0765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E19CC-7C8D-4C36-A84D-DEFEE6E0765F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3FEAAA-DBEA-4317-92AB-F9116F532B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3FEAAA-DBEA-4317-92AB-F9116F532B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3FEAAA-DBEA-4317-92AB-F9116F532B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3FEAAA-DBEA-4317-92AB-F9116F532B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
